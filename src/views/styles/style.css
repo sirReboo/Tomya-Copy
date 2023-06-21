@@ -1,0 +1,39 @@
+.grecaptcha-badge {
+    z-index: 9999;
+    margin-bottom: 70px;
+}
+
+
+.mfp-close-btn-in .mfp-close {
+    color: #888 !important;
+}
+
+.img-div{
+    width:640px;
+    height:400px;
+    background-color:rgba(108,106,106,.447);
+    border-radius:6px
+}
+            .coin-img{
+                width:30px;
+                height:30px
+            }
+            
+            .press-title{
+                color:#7670ec;
+                text-shadow:1px 1px 1px;
+                font-size:25px
+            }
+            .press-text{
+                font-size:19px;
+                font-weight:600
+            }
+            .more-news{font-size:14px;
+                font-weight:600;
+                color:#514ca5;
+                cursor:pointer
+            }
+            
+            @media screen and (
+                max-width:600px
+                ){.img-div{width:100%}}
